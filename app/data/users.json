@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Maruthi",
+        "age": 20,
+        "email": "hanumamaruthichenji@gmail.com",
+        "weight": 56.0,
+        "height": 170.0,
+        "goal": "Weight Gain",
+        "id": 1
+    },
+    {
+        "name": "Shankar",
+        "age": 35,
+        "email": "shankar@gmail.com",
+        "weight": 65.0,
+        "height": 167.0,
+        "goal": "Muscle Gain",
+        "id": 2
+    },
+    {
+        "name": "Maruthi",
+        "age": 20,
+        "email": "maruthichenji@gmail.com",
+        "weight": 56.0,
+        "height": 170.0,
+        "goal": "Weight Gain",
+        "id": 3
+    }
+]

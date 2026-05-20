@@ -1,0 +1,9 @@
+[
+    {
+        "user_id": 1,
+        "membership_type": "Premium",
+        "duration_months": 3,
+        "price": 4999.0,
+        "id": 1
+    }
+]

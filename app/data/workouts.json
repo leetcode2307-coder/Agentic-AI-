@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": 1,
+        "workout_name": "Chest Workout",
+        "duration_minutes": 60,
+        "calories_burned": 450,
+        "id": 1
+    },
+    {
+        "user_id": 1,
+        "workout_name": "Leg Press",
+        "duration_minutes": 90,
+        "calories_burned": 700,
+        "id": 2
+    }
+]
